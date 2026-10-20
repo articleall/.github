@@ -63,7 +63,7 @@ Each browser port delegates matching and redirect decisions to the shared core. 
 
 ## Supported publishers
 
-Articleall currently includes rules for these 31 domains:
+Articleall currently includes rules for these 32 domains:
 
 | | Publishers | | Publishers | | Publishers |
 | --- | --- | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ Articleall currently includes rules for these 31 domains:
 | 7 | [Parapuan](https://www.parapuan.co) | 18 | [Poskota](https://www.poskota.co.id) | 29 | [BeritaSatu](https://www.beritasatu.com) |
 | 8 | [Sonora](https://www.sonora.id) | 19 | [Detik](https://www.detik.com) | 30 | [iNews](https://www.inews.id) |
 | 9 | [Herstory](https://www.herstory.co.id) | 20 | [Insidermonkey](https://insidermonkey.com) | 31 | [Wahana News](https://www.wahananews.co) |
-| 10 | [Motorplus](https://www.motorplus-online.com) | 21 | [Merdeka](https://www.merdeka.com) | | |
+| 10 | [Motorplus](https://www.motorplus-online.com) | 21 | [Merdeka](https://www.merdeka.com) | 32 | [IDX Channel](https://www.idxchannel.com) |
 | 11 | [Liputan6](https://www.liputan6.com) | 22 | [Tempo](https://www.tempo.co) | | |
 
 > Publisher coverage is defined by the shared `rules.json`; names and URL patterns may evolve as sites change. See [articleall-core](https://github.com/articleall/articleall-core) for the authoritative rule set.
